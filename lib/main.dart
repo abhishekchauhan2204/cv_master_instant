@@ -39,6 +39,8 @@ class _HomeScreen extends State<HomeScreen> {
                       width: double.infinity,
                       color: Colors.red),
                   Text("Just three \nSimple things",style: tb35(),),
+                  Text("Just three \nSimple things",style: tb35(),),
+
                   Text("Select a CV from our library of professional designs",style: tb35(),),
                   Text("Just three \n Simple things",style: tb35(),),
                   Text("Just three \n Simple things",style: tb35(),),
