@@ -12,7 +12,9 @@ tb20({Color color = Colors.black}){
 tb25({Color color = Colors.black}){
   return TextStyle(fontSize:25, color:color);
 }
-
+tb30({Color color = Colors.black}){
+  return TextStyle(fontSize: 30,color:color);
+}
 tb35({Color color = Colors.black}){
   return TextStyle(fontSize: 35,color:color);
 }
